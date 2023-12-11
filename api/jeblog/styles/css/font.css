@@ -1,0 +1,23 @@
+@font-face{
+  font-family:"consolas";
+  src:url("../fonts/consola.ttf") format("truetype");
+  src:local("Consolas"), url("../fonts/consola.ttf") format("truetype");
+  font-weight:normal;
+  font-style:normal;
+}
+@font-face{
+  font-family:"Segoe UI Lite";
+  src:url("../fonts/segoeuil.ttf");
+}
+@font-face{
+  font-family:"Tahoma";
+  src:url("../fonts/tahoma.ttf");
+}
+@font-face{
+  font-family:"Felbridge";
+  src:url("../fonts/felbridge.ttf");
+}
+@font-face{
+  font-family:"Traditional Arabic";
+  src:url("../fonts/trado.ttf");
+}
